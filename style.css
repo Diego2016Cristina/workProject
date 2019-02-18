@@ -1,0 +1,17 @@
+.iconeRefresh {
+  display: none;
+}
+#men {
+	position: relative;
+	display: none;
+	font-size: 12px;
+	background: #ffcccc;
+	padding-left: 2px; 
+}
+#bloc_message_pro, #bloc_message_cur, #bloc_message_alu {
+	position: relative;
+	top: 10px;
+	background: #ffffcc;
+	display: none;
+	color: #333333;
+}
